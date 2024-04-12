@@ -1,8 +1,19 @@
-# Ecommerce_Data_Analy
-• Created interactive dashboard to track and analyze online sales data
+# Ecommerce_Data_Analy(PowerBI)
 
-• Used complex parameters to drill down in worksheet and customization using filters and slicers
+Summary:
+I spearheaded the development of an advanced analytics solution using PowerBI for ecommerce data analysis.
 
-• Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+Key highlights of my work include:
+1. Interactive Dashboard Creation: Designed and implemented an interactive dashboard to monitor and analyze online sales data efficiently.
 
-• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+2. Drill-Down Capabilities: Incorporated complex parameters to facilitate drill-down functionalities within the dashboard, enabling users to delve deeper into specific aspects of the data.
+
+3. Customization with Filters and Slicers: Implemented extensive customization options using filters and slicers, allowing users to tailor the analysis to their specific needs and preferences.
+
+4. Data Manipulation and Calculation: Utilized advanced techniques such as connecting data sources, joining tables, and performing calculations to manipulate and enhance the dataset for analysis purposes.
+
+5. User-Driven Parameters: Enabled user-driven parameters for visualizations, empowering users to dynamically adjust and explore different dimensions of the data.
+
+6. Diverse Visualization Types: Leveraged a variety of customized visualization types, including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers. Each visualization type was strategically chosen to effectively convey insights and facilitate better decision-making.
+
+Overall, my work on the Ecommerce_Data_Analy(PowerBI) project demonstrates a comprehensive understanding of data analytics principles and proficient use of PowerBI tools to deliver actionable insights for optimizing online sales performance.
